@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AMRITPAL BHINDER</h1>
-<h3 align="center">A future frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmritpalBhinder](https://github.com/AmritpalBhinder)
 
@@ -17,3 +17,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/amrit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amrit" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amritpalbhinder&" alt="amritpalbhinder" /></p>
